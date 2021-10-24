@@ -1,0 +1,7 @@
+orden de seguir para leer por si se te olvida algo (from me to me)
+
+1. clase_objeto
+2. metodos
+3. funciones_para_atributos
+4. constructor
+5. herencia
