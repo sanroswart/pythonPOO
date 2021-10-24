@@ -5,3 +5,4 @@ orden de seguir para leer por si se te olvida algo (from me to me)
 3. funciones_para_atributos
 4. constructor
 5. herencia
+6. herencia_avanzado
