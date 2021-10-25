@@ -44,3 +44,12 @@ print(example.add())
 example = raiz()
 print(example.set_data())
 print(example.cuadrada())
+
+object = basic_op()
+
+# isinstance lo que hace es verificar la herencia con 'True' or 'False'
+isinstance(object, basic_op)
+print(isinstance(object,basic_op))
+# issubclass lo que hace es verificar la herencia via subclase con 'True' or 'False'
+issubclass(calc, basic_op)
+print(issubclass(calc, basic_op))
