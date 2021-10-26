@@ -6,3 +6,4 @@ orden de seguir para leer por si se te olvida algo (from me to me)
 4. constructor
 5. herencia
 6. herencia_avanzado
+7. herencia_multiple
